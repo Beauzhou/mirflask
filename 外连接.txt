@@ -1,0 +1,19 @@
+post：
+| id | title | content ..
+| 1  | aaa   | xxx..
+| 2  | bbb   | yyy...
+| 3  | ccc   | zzz...
+
+
+comment:
+| id | content | post_id |
+| 1  | xx      | 1		 |
+| 2  | yy      | 2       |
+| 3  | zz      | 1       |
+
+
+| post_id | title | content | comment_id | content
+| 1       | aaa   | xxx..	| 1          | xx
+| 1       | aaa   | xxx..   | 3          | yyy
+| 2       | bbb   | yyy...  | 2
+| 3       | ccc   | zzz...  |

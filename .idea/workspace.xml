@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b4e3d8b-9b4e-453b-813c-e04c21591c61" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zlbbs-front.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zlbbs-front.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/front/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/front/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/avatars/677d1194c930361e88189b315e4de934.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/avatars/cb2ca4b2065c78fcdd7c94fb9b5a0b6d_l.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/avatars/cb2ca4b2065c78fcdd7c94fb9b5a0b6d_m.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/avatars/cb2ca4b2065c78fcdd7c94fb9b5a0b6d_s.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/avatars/黄勇_看图王.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/029250d90f0adb2904d4e43186400d3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/1ae050b4cec153343f2a63cd00090013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/22030f0664250e851d1d0c5db190cac9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/2301d4c11cea5c3d383958112b020eb0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/23ae837c0d56f48b3701539f65df853d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/7059e775b8bc6199b6e948e57fb31c9d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/8a932b689d14841ac97b2b0f745fd07f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/9163f24e0f1b209e889c48516c5674dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/c3943ba9fb4f95940bd704900be860fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/ee03e908c9ca95b31dacc5435d42af1a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/fa43333650f61224366789ccaf0dee6e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/banner/fd4721682abfe328f0c069f0c5a1ec51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/785706bf99fd826552472301209ed4d1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/b8212ec110116bbe9538a046e36b1ca3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/c0a3c7e8033a60a5e486e190978a400b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/post/c4b8ae7b8359f8bb4be37b67410a0a1e.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/283c56f08fc5_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/489a9627a722_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/c142dd7ef79b_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/d64433f7f4d4_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/cms/css/app.7ca0ed9d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/cms/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/cms/js/app.5335102c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/cms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/front/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/front/post_detail.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FflihLrIuuz0Y93l3BFyXWWzEA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="zlbbs-front" type="PythonConfigurationType" factoryName="Python">
+      <module name="zlbbs-front" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3b4e3d8b-9b4e-453b-813c-e04c21591c61" name="变更" comment="" />
+      <created>1664891147806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664891147806</updated>
+      <workItem from="1664891149490" duration="10118000" />
+      <workItem from="1664908504471" duration="203000" />
+      <workItem from="1664909348370" duration="5660000" />
+      <workItem from="1665042637692" duration="1005000" />
+      <workItem from="1665043651092" duration="3903000" />
+      <workItem from="1665048249820" duration="1485000" />
+      <workItem from="1665049878205" duration="1470000" />
+      <workItem from="1665219142459" duration="1095000" />
+      <workItem from="1665226640304" duration="2397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zlbbs_front$zlbbs_front.coverage" NAME="zlbbs-front 覆盖结果" MODIFIED="1665226971064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
